@@ -4,7 +4,7 @@ A production-ready Notes Keeper web app built with React, Supabase, and Tailwind
 
 ## 🌍 Live Demo
 
-👉 [https://your-app-name.vercel.app](https://your-app-name.vercel.app)
+👉 [https://notes-app-zowq.vercel.app](https://notes-app-zowq.vercel.app)
 
 ## ✨ Features
 
